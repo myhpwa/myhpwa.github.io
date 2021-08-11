@@ -34,5 +34,17 @@
                         "F3:8A:CD:5D:27:D2:13:A6:29:E3:92:EC:62:65:9C:CB:28:1C:32:5D:D7:23:ED:19:88:AB:9E:6F:AE:BA:BB:B7"
                   ]
             }
+      },
+      {
+            "relation": [
+                  "delegate_permission/common.handle_all_urls"
+            ],
+            "target": {
+                  "namespace": "android_app",
+                  "package_name": "tfwc.droid",
+                  "sha256_cert_fingerprints": [
+                        "F3:8A:CD:5D:27:D2:13:A6:29:E3:92:EC:62:65:9C:CB:28:1C:32:5D:D7:23:ED:19:88:AB:9E:6F:AE:BA:BB:B7"
+                  ]
+            }
       }
 ]
