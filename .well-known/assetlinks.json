@@ -1,62 +1,73 @@
-[
-      {
-            "relation": [
-                  "delegate_permission/common.handle_all_urls"
-            ],
-            "target": {
-                  "namespace": "android_app",
-                  "package_name": "io.github.myhpwa.twdi",
-                  "sha256_cert_fingerprints": [
-                        "ED:E0:D6:DE:0A:41:17:7D:22:36:4C:6C:FD:09:55:3E:52:CC:B7:A4:F1:B0:76:2A:A8:32:BC:BC:02:7D:85:D3"
-                  ]
-            }
-      },
-      {
-            "relation": [
-                  "delegate_permission/common.handle_all_urls"
-            ],
-            "target": {
-                  "namespace": "android_app",
-                  "package_name": "io.github.myhpwa.twri",
-                  "sha256_cert_fingerprints": [
-                        "28:77:44:58:05:F9:62:CF:04:35:E7:1F:1A:78:B9:98:9B:36:70:12:59:9F:80:2C:1A:95:BE:C1:76:D9:0F:BF"
-                  ]
-            }
-      },
-      {
-            "relation": [
-                  "delegate_permission/common.handle_all_urls"
-            ],
-            "target": {
-                  "namespace": "android_app",
-                  "package_name": "com.taa",
-                  "sha256_cert_fingerprints": [
-                        "F3:8A:CD:5D:27:D2:13:A6:29:E3:92:EC:62:65:9C:CB:28:1C:32:5D:D7:23:ED:19:88:AB:9E:6F:AE:BA:BB:B7"
-                  ]
-            }
-      },
-      {
-            "relation": [
-                  "delegate_permission/common.handle_all_urls"
-            ],
-            "target": {
-                  "namespace": "android_app",
-                  "package_name": "tfwc.droid",
-                  "sha256_cert_fingerprints": [
-                        "F3:8A:CD:5D:27:D2:13:A6:29:E3:92:EC:62:65:9C:CB:28:1C:32:5D:D7:23:ED:19:88:AB:9E:6F:AE:BA:BB:B7"
-                  ]
-            }
-      },
-      {
-            "relation": [
-                  "delegate_permission/common.handle_all_urls"
-            ],
-            "target": {
-                  "namespace": "android_app",
-                  "package_name": "io.github.myhpwa.TwoFauth",
-                  "sha256_cert_fingerprints": [
-                        "5F:6F:28:C9:10:D7:84:64:22:7D:CC:37:F2:60:12:C1:F7:D0:15:30:56:3E:DA:FA:CA:0B:B1:9D:41:65:52:36"
-                  ]
-            }
-      }
+[{
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.myhpwa.twdi",
+            "sha256_cert_fingerprints": [
+                "ED:E0:D6:DE:0A:41:17:7D:22:36:4C:6C:FD:09:55:3E:52:CC:B7:A4:F1:B0:76:2A:A8:32:BC:BC:02:7D:85:D3"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.myhpwa.twri",
+            "sha256_cert_fingerprints": [
+                "28:77:44:58:05:F9:62:CF:04:35:E7:1F:1A:78:B9:98:9B:36:70:12:59:9F:80:2C:1A:95:BE:C1:76:D9:0F:BF"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.taa",
+            "sha256_cert_fingerprints": [
+                "F3:8A:CD:5D:27:D2:13:A6:29:E3:92:EC:62:65:9C:CB:28:1C:32:5D:D7:23:ED:19:88:AB:9E:6F:AE:BA:BB:B7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "tfwc.droid",
+            "sha256_cert_fingerprints": [
+                "F3:8A:CD:5D:27:D2:13:A6:29:E3:92:EC:62:65:9C:CB:28:1C:32:5D:D7:23:ED:19:88:AB:9E:6F:AE:BA:BB:B7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.myhpwa.TwoFauth",
+            "sha256_cert_fingerprints": [
+                "5F:6F:28:C9:10:D7:84:64:22:7D:CC:37:F2:60:12:C1:F7:D0:15:30:56:3E:DA:FA:CA:0B:B1:9D:41:65:52:36"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.myhpwa.SpinTheWheel",
+            "sha256_cert_fingerprints": [
+                "32:BE:3D:14:56:52:7E:E5:30:0F:7C:4F:76:57:4C:07:F1:BB:EC:FA:0C:DC:E8:22:F7:5E:BF:EF:B0:0F:21:9A"
+            ]
+        }
+    }
 ]
