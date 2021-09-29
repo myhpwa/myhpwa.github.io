@@ -35,6 +35,12 @@
       "details": {
         "paths": ["/spin-the-wheel/*"]
       }
+    },
+    {
+      "manifest": "https://myhpwa.github.io/twei/manifest.json",
+      "details": {
+        "paths": ["/twei/*"]
+      }
     }
   ]
 }
