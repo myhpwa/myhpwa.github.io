@@ -1,0 +1,40 @@
+{
+  "web_apps": [
+    {
+      "manifest": "https://myhpwa.github.io/twdi/manifest.json",
+      "details": {
+        "paths": ["/twdi/*"]
+      }
+    },
+    {
+      "manifest": "https://myhpwa.github.io/twri/manifest.json",
+      "details": {
+        "paths": ["/twri/*"]
+      }
+    },
+    {
+      "manifest": "https://myhpwa.github.io/taa/manifest.json",
+      "details": {
+        "paths": ["/taa/*"]
+      }
+    },
+    {
+      "manifest": "https://myhpwa.github.io/tfwc/manifest.json",
+      "details": {
+        "paths": ["/tfwc/*"]
+      }
+    },
+    {
+      "manifest": "https://myhpwa.github.io/TwoFauth/manifest.json",
+      "details": {
+        "paths": ["/TwoFauth/*"]
+      }
+    },
+    {
+      "manifest": "https://myhpwa.github.io/spin-the-wheel/manifest.json",
+      "details": {
+        "paths": ["/spin-the-wheel/*"]
+      }
+    }
+  ]
+}
