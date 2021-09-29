@@ -3,43 +3,43 @@
     {
       "manifest": "https://myhpwa.github.io/twdi/manifest.json",
       "details": {
-        "paths": ["/twdi/*"]
+        "paths": ["/twdi", "/twdi/*"]
       }
     },
     {
       "manifest": "https://myhpwa.github.io/twri/manifest.json",
       "details": {
-        "paths": ["/twri/*"]
+        "paths": ["/twri", "/twri/*"]
       }
     },
     {
       "manifest": "https://myhpwa.github.io/taa/manifest.json",
       "details": {
-        "paths": ["/taa/*"]
+        "paths": ["/taa", "/taa/*"]
       }
     },
     {
       "manifest": "https://myhpwa.github.io/tfwc/manifest.json",
       "details": {
-        "paths": ["/tfwc/*"]
+        "paths": ["/tfwc", "/tfwc/*"]
       }
     },
     {
       "manifest": "https://myhpwa.github.io/TwoFauth/manifest.json",
       "details": {
-        "paths": ["/TwoFauth/*"]
+        "paths": ["/TwoFauth", "/TwoFauth/*"]
       }
     },
     {
       "manifest": "https://myhpwa.github.io/spin-the-wheel/manifest.json",
       "details": {
-        "paths": ["/spin-the-wheel/*"]
+        "paths": ["/spin-the-wheel", "/spin-the-wheel/*"]
       }
     },
     {
       "manifest": "https://myhpwa.github.io/twei/manifest.json",
       "details": {
-        "paths": ["/twei/*"]
+        "paths": ["/twei", "/twei/*"]
       }
     }
   ]
