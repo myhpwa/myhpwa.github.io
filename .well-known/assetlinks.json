@@ -80,7 +80,8 @@
             "namespace": "android_app",
             "package_name": "io.github.myhpwa.ygig",
             "sha256_cert_fingerprints": [
-                "47:F9:CE:E2:DA:DC:4B:BC:5C:AB:F6:55:D0:5A:06:82:A1:66:E1:8D:6B:3C:88:F3:68:D2:EF:4B:3E:54:2A:96"
+                "47:F9:CE:E2:DA:DC:4B:BC:5C:AB:F6:55:D0:5A:06:82:A1:66:E1:8D:6B:3C:88:F3:68:D2:EF:4B:3E:54:2A:96",
+                "CA:E6:8C:D0:09:BB:5F:9D:45:6B:34:81:29:15:17:6C:2D:3A:F3:80:E5:80:CC:11:C8:68:C4:88:7C:B7:5D:53"
             ]
         }
     }
