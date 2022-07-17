@@ -84,5 +84,17 @@
                 "CA:E6:8C:D0:09:BB:5F:9D:45:6B:34:81:29:15:17:6C:2D:3A:F3:80:E5:80:CC:11:C8:68:C4:88:7C:B7:5D:53"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.myhpwa.sy108q",
+            "sha256_cert_fingerprints": [
+                "4C:2E:BD:FB:80:BC:9D:90:B9:37:84:AC:A6:87:43:C5:B0:FC:B9:AC:DB:CE:17:A1:BE:C6:84:FB:73:A2:CC:AA"
+            ]
+        }
     }
 ]
