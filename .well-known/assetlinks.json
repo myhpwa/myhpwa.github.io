@@ -93,7 +93,8 @@
             "namespace": "android_app",
             "package_name": "io.github.myhpwa.sy108q",
             "sha256_cert_fingerprints": [
-                "4C:2E:BD:FB:80:BC:9D:90:B9:37:84:AC:A6:87:43:C5:B0:FC:B9:AC:DB:CE:17:A1:BE:C6:84:FB:73:A2:CC:AA"
+                "4C:2E:BD:FB:80:BC:9D:90:B9:37:84:AC:A6:87:43:C5:B0:FC:B9:AC:DB:CE:17:A1:BE:C6:84:FB:73:A2:CC:AA",
+                "B2:E3:C3:34:31:9B:E7:85:10:06:C8:61:3B:5A:C6:29:62:FB:4B:4A:F7:E2:DC:CE:15:EF:ED:F0:E2:FD:BA:3C"
             ]
         }
     }
