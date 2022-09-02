@@ -97,5 +97,18 @@
                 "B2:E3:C3:34:31:9B:E7:85:10:06:C8:61:3B:5A:C6:29:62:FB:4B:4A:F7:E2:DC:CE:15:EF:ED:F0:E2:FD:BA:3C"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.thcs",
+            "sha256_cert_fingerprints": [
+                "10:A9:77:59:C5:FF:E0:C1:51:2F:48:D8:F4:9B:6F:52:43:6F:00:25:88:2E:8A:7E:88:70:B1:5D:83:01:71:14",
+                "60:92:78:DA:55:CA:04:BA:49:90:5F:79:41:10:F5:58:65:40:25:6E:BB:1B:6B:60:A8:65:03:0B:88:60:09:B8"
+            ]
+        }
     }
 ]
