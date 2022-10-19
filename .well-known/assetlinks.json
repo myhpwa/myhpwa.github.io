@@ -110,5 +110,17 @@
                 "60:92:78:DA:55:CA:04:BA:49:90:5F:79:41:10:F5:58:65:40:25:6E:BB:1B:6B:60:A8:65:03:0B:88:60:09:B8"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.myhpwa.dfbdict",
+            "sha256_cert_fingerprints": [
+                "42:95:79:A0:7D:52:97:BA:6F:8B:26:79:8E:90:64:15:EB:F8:D0:A5:21:C8:BB:11:9D:87:E3:52:02:6F:16:F4"
+            ]
+        }
     }
 ]
