@@ -119,7 +119,8 @@
             "namespace": "android_app",
             "package_name": "io.github.myhpwa.dfbdict",
             "sha256_cert_fingerprints": [
-                "42:95:79:A0:7D:52:97:BA:6F:8B:26:79:8E:90:64:15:EB:F8:D0:A5:21:C8:BB:11:9D:87:E3:52:02:6F:16:F4"
+                "42:95:79:A0:7D:52:97:BA:6F:8B:26:79:8E:90:64:15:EB:F8:D0:A5:21:C8:BB:11:9D:87:E3:52:02:6F:16:F4",
+                "C1:BC:54:11:22:8D:84:49:33:FF:A8:C1:0B:EB:82:BD:9B:4F:BF:93:74:18:9A:0D:F8:26:AF:11:FA:27:41:0B"
             ]
         }
     }
