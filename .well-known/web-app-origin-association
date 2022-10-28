@@ -47,6 +47,12 @@
       "details": {
         "paths": ["/dfb-dict", "/dfb-dict/*"]
       }
+    },
+    {
+      "manifest": "https://myhpwa.github.io/cbt-dict/manifest.json",
+      "details": {
+        "paths": ["/cbt-dict", "/cbt-dict/*"]
+      }
     }
   ]
 }

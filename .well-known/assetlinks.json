@@ -123,5 +123,17 @@
                 "C1:BC:54:11:22:8D:84:49:33:FF:A8:C1:0B:EB:82:BD:9B:4F:BF:93:74:18:9A:0D:F8:26:AF:11:FA:27:41:0B"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.myhpwa.cbtdict",
+            "sha256_cert_fingerprints": [
+                "DC:51:92:E6:00:5F:B0:89:E7:F7:D1:79:5B:81:16:17:E3:45:0F:F8:85:0D:5A:6B:42:D6:15:A3:5A:66:2B:2C"
+            ]
+        }
     }
 ]
