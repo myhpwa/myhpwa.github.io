@@ -130,6 +130,18 @@
         ],
         "target": {
             "namespace": "android_app",
+            "package_name": "io.github.myhpwa.dfbdict2",
+            "sha256_cert_fingerprints": [
+                "4C:44:4A:B7:3B:68:7B:98:75:14:9F:57:98:A9:B4:82:0B:26:FF:93:A4:D2:41:74:4D:AD:BB:84:31:1B:DC:6F"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
             "package_name": "io.github.myhpwa.cbtdict",
             "sha256_cert_fingerprints": [
                 "DC:51:92:E6:00:5F:B0:89:E7:F7:D1:79:5B:81:16:17:E3:45:0F:F8:85:0D:5A:6B:42:D6:15:A3:5A:66:2B:2C",
