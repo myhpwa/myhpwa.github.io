@@ -55,6 +55,7 @@
             "namespace": "android_app",
             "package_name": "io.github.myhpwa.TwoFauth",
             "sha256_cert_fingerprints": [
+                "86:69:59:F7:D1:43:C1:83:7A:0E:2A:DC:82:FC:A9:F0:AF:D2:31:37:BB:BD:7D:59:6D:3A:06:D2:25:C2:2E:FA",
                 "5F:6F:28:C9:10:D7:84:64:22:7D:CC:37:F2:60:12:C1:F7:D0:15:30:56:3E:DA:FA:CA:0B:B1:9D:41:65:52:36"
             ]
         }
